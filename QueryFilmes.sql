@@ -3,7 +3,7 @@ SELECT Nome, Ano
 FROM Filmes
 
 -- 2
-SELECT Nome, Ano 
+SELECT Nome, Ano, Duracao
 FROM Filmes
 ORDER BY Ano ASC
 
